@@ -20,13 +20,7 @@ Because of this reason, it was used as the base model of the web application.
 ## Web application:
 To make the web app, I used Streamlit to turn the python script into an app. For the final deployment of an interactive model, I used HuggingFace's Spaces.
 
-You can check it out and try it out [here](https://huggingface.co/spaces/azizbarank/Toxic-Comment-Detection-App).
-
-### Screenshot of the web page:
-
-![Screenshot of the web page](https://github.com/ThatCodeCodingGuy/Toxic-Comment-Detector/blob/main/app.jpg)
-
-
+You can check it out and try it out [here]().
 
 ## Data:
 Data for this project was obtained from the GitHub repository of [SurgeAI](https://github.com/surge-ai/toxicity), a powerful NLP data labeling platform.
