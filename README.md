@@ -17,11 +17,6 @@ Because of this reason, it was used as the base model of the web application.
 |Logistic Regression |    0.82     |   0.80   |   0.81   |
 |SVM                 |    0.82     |   0.83   |   0.83   |
 
-## Web application:
-To make the web app, I used Streamlit to turn the python script into an app. For the final deployment of an interactive model, I used HuggingFace's Spaces.
-
-You can check it out and try it out [here]().
-
 ## Data:
 Data for this project was obtained from the GitHub repository of [SurgeAI](https://github.com/surge-ai/toxicity), a powerful NLP data labeling platform.
 
@@ -31,8 +26,3 @@ Data for this project was obtained from the GitHub repository of [SurgeAI](https
 * #### Columns:
   * ``` text ```: the text of the social media comment
   * ``` is_toxic```: whether the text is toxic or not
-
-
-## References:
-* The script for the web application was inspired by Sidney Kung even though later on it was heavily changed according to the needs of this project. Hence, the link to her personal website: https://www.sidneykung.com/
-* SurgeAI Dataset GitHub Repository Link: https://github.com/surge-ai/toxicity
